@@ -1,6 +1,11 @@
 # TriLiteNet
 
-
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/trilitenet-lightweight-model-for-multi-task/traffic-object-detection-on-bdd100k-val)](https://paperswithcode.com/sota/traffic-object-detection-on-bdd100k-val?p=trilitenet-lightweight-model-for-multi-task)
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/trilitenet-lightweight-model-for-multi-task/drivable-area-detection-on-bdd100k-val)](https://paperswithcode.com/sota/drivable-area-detection-on-bdd100k-val?p=trilitenet-lightweight-model-for-multi-task)
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/trilitenet-lightweight-model-for-multi-task/lane-detection-on-bdd100k-val)](https://paperswithcode.com/sota/lane-detection-on-bdd100k-val?p=trilitenet-lightweight-model-for-multi-task)
 
 <img width="1161" alt="Ảnh màn hình 2025-04-27 lúc 05 00 57" src="https://github.com/user-attachments/assets/b57d9590-b57d-475d-a93f-cfef960f9669" />
 
@@ -49,7 +54,7 @@ Update the your dataset path in the `lib/config/default.py`.
 ## Training
 
 ```shell
-python tools/train.py --config '{nano/small/medium/large}'
+python tools/train.py --config 'weights/{tiny/small/base}'
 ```
 ## Evaluation
 
