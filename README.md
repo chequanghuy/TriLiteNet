@@ -7,7 +7,7 @@
 
 ## Paper
 
-* If you find our work useful, please cite this paper: **TwinLiteNetPlus: A Stronger Model for Real-time Drivable Area and Lane Segmentation.** [![arXiv](https://upload.wikimedia.org/wikipedia/fi/9/98/IEEE-Access_Logo.svg)]([https://arxiv.org/abs/2403.16958](https://ieeexplore.ieee.org/document/10930421))
+* If you find our work useful, please cite this paper: **TwinLiteNetPlus: A Stronger Model for Real-time Drivable Area and Lane Segmentation.** [![IEEE Access]]([https://arxiv.org/abs/2403.16958](https://ieeexplore.ieee.org/document/10930421))
 
 <img width="1161" alt="Ảnh màn hình 2025-04-27 lúc 05 00 57" src="https://github.com/user-attachments/assets/b57d9590-b57d-475d-a93f-cfef960f9669" />
 
